@@ -1,0 +1,12 @@
+@charset "utf-8";
+@import url("https://use.typekit.net/hxl4rdj.css");
+img {
+    height: 30%;
+    float: right;
+}
+h1{
+    font-family: "gelato-luxe", sans-serif;
+}
+p {
+    font-family: "tiffin-latin-variable", sans-serif;
+}
